@@ -1,0 +1,7 @@
+Client=0.12
+ClientLink=https://insertdownloadlinkhere
+World 1,US,120.120.120.120,12900
+World 2,US,120.120.120.120,12900
+World 3,EU,120.120.120.120,12900
+World 4,AU,120.120.120.120,12900
+Local,none,localhost,12900
